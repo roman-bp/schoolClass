@@ -57,9 +57,9 @@ header h1 {
     background-color: #fff;
     border: 1px solid #ccc;
     border-radius: 10px;
-    padding: 20px;
+    padding: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    width: calc(25% - 20px); /* Рассчитывает ширину карточки, включая отступы */
+    width: calc(25% + 45px); /* Рассчитывает ширину карточки, включая отступы */
     text-align: center;
     transition: transform 0.2s;
     cursor: pointer;
