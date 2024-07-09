@@ -1,0 +1,81 @@
+[
+    {
+      "id": 1,
+      "name": "Роман Данилюк",
+      "age": 15,
+      "class": "9A",
+      "photo": "images/romanDanilyik.jpg",
+      "address": "ул. Ленина, д. 5",
+      "phone": "+7 (999) 123-45-67",
+      "email": "ivan@example.com",
+      "notes": "Отличник",
+      "files": [
+        "docs/ivan_grades.xlsx",
+        "docs/ivan_grades.xlsx",
+        "docs/ivan_grades.xlsx",
+        "docs/ivan_grades.xlsx",
+        "docs/ivan_grades.xlsx"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Мария Петрова",
+      "age": 15,
+      "class": "8B",
+      "photo": "images/maria.jpg",
+      "address": "ул. Победы, д. 10",
+      "phone": "+7 (999) 987-65-43",
+      "email": "maria@example.com",
+      "notes": "Активистка",
+      "files": [
+        "docs/maria_report.docx",
+        "docs/maria_grades.xlsx"
+      ]
+    },
+    {
+        "id": 3,
+        "name": "Елена Данилюк",
+        "age": 15,
+        "class": "9A",
+        "photo": "images/elenaDanilyik.jpg",
+        "address": "ул. Ленина, д. 5",
+        "phone": "+7 (999) 123-45-67",
+        "email": "ivan@example.com",
+        "notes": "Отличник",
+        "files": [
+          "docs/ivan_report.docx",
+          "docs/ivan_grades.xlsx"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Глеб Данилюк",
+        "age": 15,
+        "class": "9A",
+        "photo": "images/glebDanilyik.jpg",
+        "address": "ул. Ленина, д. 5",
+        "phone": "+7 (999) 123-45-67",
+        "email": "ivan@example.com",
+        "notes": "Отличник",
+        "files": [
+          "docs/ivan_report.docx",
+          "docs/ivan_grades.xlsx"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Илля Данилюк",
+        "age": 15,
+        "class": "9A",
+        "photo": "images/illyaDanilyik.jpg",
+        "address": "ул. Ленина, д. 5",
+        "phone": "+7 (999) 123-45-67",
+        "email": "ivan@example.com",
+        "notes": "Отличник",
+        "files": [
+          "docs/ivan_report.docx",
+          "docs/ivan_grades.xlsx"
+        ]
+      }
+  ]
+  
